@@ -142,14 +142,14 @@
                                                                             margin: 1em;
                                                                         }
                                                                         
-                                                                        @media screen and (max-width: 800px) {
+                                                                        @media screen and (max-width: 400px) {
                                                                             .flex-container>div {
                                                                                 margin: 0em 2em;
                                                                                 width: 100%;
                                                                             }
                                                                         }
                                                                         
-                                                                        @media screen and (max-width: 800px) {
+                                                                        @media screen and (max-width: 400px) {
                                                                             .div#listt {
                                                                                 width: 100%;
                                                                             }
